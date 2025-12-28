@@ -11,4 +11,6 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=Akatsuki1910&count_private=true&show_icons=true)](https://github.com/Akatsuki1910)
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akatsuki1910&layout=compact)](https://github.com/Akatsuki1910)
 
+<!--
 ![gif](https://github-gif.aktk1910.com/)
+-->
